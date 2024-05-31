@@ -1,0 +1,18 @@
+.btn-secondary {
+     --bs-btn-color: #000000;
+}
+.btn-outline-success {
+    --bs-btn-color: #000000;
+    --bs-btn-border-color: ##6c757d;
+    --bs-btn-hover-bg: ##6c757d;
+    --bs-btn-active-bg: #6c757d; 
+     --bs-btn-active-border-color: #6c757d; 
+     --bs-btn-hover-color: black;
+}
+.w-flex{
+    flex-wrap: wrap !important;
+}
+
+.btn-fix{
+    position: sticky;
+}
